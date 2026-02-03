@@ -7,3 +7,7 @@ function random(d){
    return Math.random(d*10);
 }
 
+function isDivisable(fn){
+    return fn/2;
+}
+
