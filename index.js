@@ -11,3 +11,9 @@ function isDivisable(fn){
     return fn/2;
 }
 
+function number(){
+    console.log("num1");
+    console.log("num2");
+    
+    
+}
