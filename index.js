@@ -13,5 +13,6 @@ function number(){
     console.log("num2");
     console.log("num3");
     console.log("num5");
+    console.log("num6");
     
 }
