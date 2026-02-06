@@ -16,3 +16,18 @@ function number(){
     console.log("num6");
     
 }
+
+function number2(){
+    console.log("num1");
+    console.log("num2");
+    console.log("num3");
+    console.log("num5");
+    
+}
+function number3(){
+    console.log("num1");
+    console.log("num2");
+    console.log("num3");
+    console.log("num5");
+    
+}
